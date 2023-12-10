@@ -11,7 +11,7 @@ def cat(file_name):
 
 # loop 1000
 count=1
-while count <= 10:
+while count <= 1000:
     # 完全なランダム(module機能的random)
     # https://magazine.techacademy.jp/magazine/15821
     import random
